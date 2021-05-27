@@ -22,7 +22,7 @@ scale as well as large scale.
 > It can be implemented in electing ahead for a particular organization, managing union leaders, and secretary elections in factories and society respectively. 
 > It can also be implemented in corporate sectors to choose their representatives by keeping all safety measures in mind and voting perfectly at a fair means.
 
-***LAnding Page***
+***Landing Page***
 ![](Capture.PNG)
 
 ***Category*** :
