@@ -25,7 +25,7 @@ scale as well as large scale.
 ![](Capture.PNG)
 
 ***Category*** :
-> Software
+> Software 
 
 ***Tech Stack*** :
 
